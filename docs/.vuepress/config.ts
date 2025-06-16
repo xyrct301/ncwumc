@@ -14,7 +14,7 @@ import { defineUserConfig } from 'vuepress'
 import { plumeTheme } from 'vuepress-theme-plume'
 
 export default defineUserConfig({
-  base: '/',
+  base: '/ncwumc',
   lang: 'zh-CN',
   title: '画梦方块社',
   description: '画梦方块社',
