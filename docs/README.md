@@ -11,7 +11,7 @@ config:
       actions:
         -
           theme: brand
-          text: 博客
-          link: /blog/
+          text: 了解更多
+          link: /about/
 
 ---
