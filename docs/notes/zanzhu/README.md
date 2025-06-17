@@ -1,7 +1,7 @@
 ---
 title: 赞助名单
 createTime: 2025/06/15 12:30:31
-permalink: /zz/
+permalink: /zanzhu/
 ---
 
 # 赞助名单 ✨
