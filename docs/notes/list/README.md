@@ -13,7 +13,7 @@ permalink: /list/
 |--------------|--------------------------------------------------------------|
 | 社长         | **qiqisisi**                                    |
 | 副社长       | [**Zhihaoa**](/Zhihaoa)                                                  |
-| 团支书       | **Zhihaoa**                                                     |
+| 团支书       | [**Zhihaoa**](/Zhihaoa)                                                     |
 | 技术部       | [**JulyStarfire**](/JulyStarfire) · 横竖 · TaBm · 枫岚 · 情绪的出逃 |
 | 建筑部       | [**昼**](/Is_ZhouX) · TFWY · [EG](/EG) · Mrs_War · sanmurp |
 | 组策部       | **Baiye_um** · Xi_fu · 辛 · [零二五](/lingerwu)                         |
@@ -31,4 +31,4 @@ permalink: /list/
 
 
 ## 撰写个人主页
-猛戳[教程](/ncwumc/help)开始填写
+猛戳[教程](/help)开始填写
