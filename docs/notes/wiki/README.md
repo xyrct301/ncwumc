@@ -26,7 +26,5 @@ permalink: /wiki/
 具体运行情况请前往[QQ群](/qq/)查看
 
 
-
-
-
-
+## 关于网站
+采用[燕大MC社新官网](https://github.com/ShuJun-Junical/ysumc.net)同款架构，参考[上交大MC社官网](https://mc.sjtu.cn/)布局。

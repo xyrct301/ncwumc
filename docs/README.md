@@ -29,26 +29,10 @@ config:
 
 ## 龙子湖一览
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <video 
-    controls 
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
-    poster="thumbnail.jpg">
-    <source src="/index/long.mp4" type="video/mp4">
-    您的浏览器不支持 HTML5 视频
-  </video>
-</div>
+
 
 ## doro为你建的大学
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <video 
-    controls 
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
-    poster="thumbnail.jpg">
-    <source src="/index/doro.mp4" type="video/mp4">
-    您的浏览器不支持 HTML5 视频
-  </video>
-</div>
+
 
 @[bilibili](BV1akjwznEuc)
