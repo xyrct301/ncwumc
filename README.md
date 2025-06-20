@@ -1,1 +1,1 @@
-华北水利水电大学画梦方块社（NCWUMC）官网：https://xks1.eu.org/ncwumc
+华北水利水电大学画梦方块社（NCWUMC）官网：[前往官网](https://mc.xks1.eu.org/)
