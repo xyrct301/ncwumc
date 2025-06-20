@@ -6,7 +6,7 @@ permalink: /help/
 
 进入[**皮肤站**](https://skin.twinklestars.top/)，上传皮肤
 
-右键头像复制头像连接
+右键头像复制头像链接
 ![操作](/head.png)
 
 右键皮肤复制皮肤链接

@@ -26,7 +26,7 @@ permalink: /list/
 | 副社长       | QiongZhu                                                  |
 | 团支书       | 杏林玉树                                                    |
 | 技术部       | [Chank616](/Chank616) · 陈北炫 · jtg_un |
-| 建筑部       | Terminal · RestGita · Early8 · 青桐「牛至鼠」 |
+| 建筑部       | Terminal · RestGita · Early8 · [Rinkindow](/Rinkindow) |
 | 组策部       | 艾洛 · Azuke · tianling · 流鸦 · 原中雾                         |
 
 
