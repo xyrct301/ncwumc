@@ -50,3 +50,5 @@ config:
     您的浏览器不支持 HTML5 视频
   </video>
 </div>
+
+@[bilibili](BV1akjwznEuc)
