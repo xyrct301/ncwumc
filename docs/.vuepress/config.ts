@@ -14,10 +14,10 @@ import { defineUserConfig } from 'vuepress'
 import { plumeTheme } from 'vuepress-theme-plume'
 
 export default defineUserConfig({
-  base: '/ncwumc',
+  base: '/',
   lang: 'zh-CN',
   title: '画梦方块社',
-  description: '画梦方块社',
+  description: '华北水利水电大学画梦方块社官网',
 
 
   head: [
@@ -30,7 +30,7 @@ export default defineUserConfig({
 
   theme: plumeTheme({
     /* 添加您的部署域名, 有助于 SEO, 生成 sitemap */
-    // hostname: 'https://your_site_url',
+    // hostname: 'https://mc.xks1.eu.org/',
 
     /* 文档仓库配置，用于 editLink */
     // docsRepo: '',
