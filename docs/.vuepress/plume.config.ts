@@ -49,7 +49,7 @@ export default defineThemeConfig({
    * @see https://theme-plume.vuejs.press/config/basic/#profile
    */
   profile: {
-    avatar: '/ncwumc/index/logo.png',
+    avatar: '/index/logo.png',
     name: 'NCWUMC',
     description: '画梦方块社',
     // circle: true,
