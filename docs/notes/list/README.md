@@ -16,7 +16,7 @@ permalink: /list/
 | 团支书       | [**Zhihaoa**](/Zhihaoa)                                                     |
 | 技术部       | [**JulyStarfire**](/JulyStarfire) · 横竖 · TaBm · 枫岚 · 情绪的出逃 |
 | 建筑部       | [**昼**](/Is_ZhouX) · TFWY · [EG](/EG) · Mrs_War · sanmurp |
-| 组策部       | **Baiye_um** · Xi_fu · 辛 · [零二五](/lingerwu)                         |
+| 组策部       | [**Baiye_um**](/Baiye_um) · Xi_fu · 辛 · [零二五](/lingerwu)                         |
 
 
 ## *往届社团成员*
