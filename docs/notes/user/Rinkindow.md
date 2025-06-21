@@ -10,22 +10,22 @@ permalink填游戏ID或网名拼音缩写
  -->
 
 
-<!-- 精简版示例 (保留核心结构) -->
-<div class="member-card" style="max-width:700px;background:#fff;border-radius:12px;box-shadow:0 5px 20px rgba(0,0,0,0.08);margin:2rem auto">
+<!-- 手机端精简版示例 (保留核心结构) -->
+<div class="member-card" style="max-width:700px;background:#fff;border-radius:12px;box-shadow:0 5px 20px rgba(0,0,0,0.08);margin:2rem auto;overflow:hidden">
   <div style="background:#2c3e50;padding:25px;display:flex;align-items:center;gap:20px">
-    <img src="https://skin.twinklestars.top/avatar/115?size=36 " alt="头像" style="width:70px;height:70px;border-radius:50%;border:3px solid #3498db">       <!-- 把XXX换为你的头像链接 -->
+    <img src="https://skin.twinklestars.top/avatar/115?size=36" alt="头像" style="width:70px;height:70px;border-radius:50%;border:3px solid #3498db">       <!-- 把XXX换为你的头像链接 -->
     <div>
       <h2 style="color:#fff;margin:0">Rinkindow </h2>    <!-- 把XXX换为你的ID -->
       <p style="color:#bdc3c7;margin:0">全部ID: Rinkindow </p>    <!-- 把XXX换为你的ID -->
     </div>
   </div>
   
-  <div style="display:flex;padding:0">
-    <div style="flex:0 0 250px;padding:25px;text-align:center">
-      <img src="https://skin.twinklestars.top/preview/115?height=150" alt="皮肤" style="max-height:250px">               <!-- 把XXX换为你的皮肤链接 -->
-    </div>
-    
-<div style="flex:1;padding:25px;display:flex;flex-direction:column;gap:15px">
+  <div style="display:flex;padding:0;flex-wrap:wrap">
+  <div style="flex:0 0 250px;padding:25px;text-align:center;min-width:100%;max-width:100%;box-sizing:border-box">
+    <img src="https://skin.twinklestars.top/preview/115?height=150" alt="皮肤" style="max-height:250px;max-width:100%">
+  </div>
+  
+  <div style="flex:1;padding:25px;display:flex;flex-direction:column;gap:15px;min-width:300px">
   <!-- 基本信息区块 -->
   <div>
     <h3 style="font-size:1.25rem;color:#2c3e50;margin:0 0 8px">📋 基本信息</h3>

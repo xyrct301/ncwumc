@@ -12,6 +12,6 @@ permalink: /help/
 右键皮肤复制皮肤链接
 ![操作](/skin.png)
 
-下载[**个人主页模板**](https://wwms.lanzouo.com/iIqsa2z5em5e)进行修改
+下载[**个人主页模板**](https://wwms.lanzouo.com/ipsOK2z8yaaf)进行修改
 
 找JulyStarfire上传信息
