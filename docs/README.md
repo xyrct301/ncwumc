@@ -27,9 +27,9 @@ config:
 ---
 
 
-## 龙子湖一览
+## 像素龙子湖
 
-
+@[bilibili](BV1t1KVzDE7E)
 
 ## doro为你建的大学
 
