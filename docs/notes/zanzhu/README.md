@@ -34,6 +34,19 @@ permalink: /zanzhu/
 - 白夜  
 - xiaciyiding  
 
+@tab 2025.7.2
+- Haoahao  
+- Sakura  
+- 昼  
+- WAR  
+- 钕骸不可耐  
+- Owo  
+- 河科大太上皇  
+- 残念こ  
+- tl  
+- 翟伟恒  
+- Clementine  
+
 @tab 筹备中
 期待您的加入
 :::
