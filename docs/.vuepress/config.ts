@@ -16,8 +16,8 @@ import { plumeTheme } from 'vuepress-theme-plume'
 export default defineUserConfig({
   base: '/',
   lang: 'zh-CN',
-  title: '华北水利水电大学Minecraft社 - NCWUMC',
-  description: '华北水利水电大学画梦方块社官网（NCWUMC）',
+  title: '画梦方块社',
+  description: '华北水利水电大学Minecraft社 - NCWUMC',
 
 
   head: [
