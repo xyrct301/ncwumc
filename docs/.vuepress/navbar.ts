@@ -18,7 +18,7 @@ export default defineNavbarConfig([
   [
     { text: '社团介绍', link: '/notes/about/README.md' },
     { text: '社团成员', link: '/notes/list/README.md' },
-    { text: 'QQ群', link: '/notes/qq/README.md' },
+    { text: 'QQ群', link: 'https://qun.qq.com/universal-share/share?ac=1&authKey=FForLmXqIB1Mf3TRRIE5Rno3kASuCbTeA2FaOfDtIR4zs7E0rE81O60co7ZqvXdO&busi_data=eyJncm91cENvZGUiOiI3OTQwNjE4MTAiLCJ0b2tlbiI6Ii9Id0IxajVPby9sM0R5WjZGS0hBUkJuVzYvbUVsNThWNmlIdTFNUjVxRDF6UXNya2cvMTBBdmxpaDZxRjVqZVIiLCJ1aW4iOiIyMTU5OTU0MTg5In0%3D&data=mXBE6JncAFCIMPeN6bBNwPb6KEGAkv8Tr_2ht5iQmGBhZSfBsnpn10B8bFkWxvNPpe4GYvs7kx7ZFH3zZwoLPQ&svctype=4&tempid=h5_group_info' },
     { text: 'B站主页', link: 'https://space.bilibili.com/3493277240133634?spm_id_from=333.337.0.0' }
   ]
   },
