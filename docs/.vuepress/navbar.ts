@@ -9,7 +9,7 @@ import { defineNavbarConfig } from 'vuepress-theme-plume'
 export default defineNavbarConfig([
   { text: '首页', link: '/' },
   { text: 'wiki', link: '/wiki/' },
-  { text: '在线地图', link: '/map/' },
+  { text: '在线地图', link: 'http://a2.sjcmc.cn:10310/' },
   { text: '赞助名单', link: '/zanzhu/' },
   { text: '博客', link: '/blog/' },
   {
