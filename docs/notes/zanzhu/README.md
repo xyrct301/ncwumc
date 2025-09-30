@@ -6,7 +6,7 @@ permalink: /zanzhu/
 
 # 赞助名单 ✨
 
-**赞助名单：**
+**功德榜：**
 
 ::: tabs
 @tab 2025.4.12
@@ -46,6 +46,18 @@ permalink: /zanzhu/
 - tl  
 - 翟伟恒  
 - Clementine  
+
+@tab 2025.8.30
+- RinbowXD
+- 白夜
+- STARLeijue
+- 艾洛
+- 是WAR
+- 昼
+- JulyStarfire
+- jtgun
+- zh
+- 7744
 
 @tab 筹备中
 期待您的加入
