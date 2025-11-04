@@ -11,7 +11,7 @@ permalink: /JulyStarfire/
     <img src="https://skin.twinklestars.top/avatar/460?size=36" alt="头像" style="width:70px;height:70px;border-radius:50%;border:3px solid #3498db">       <!-- 把XXX换为你的头像链接 -->
     <div>
       <h2 style="color:#fff;margin:0">JulyStarfire</h2>    <!-- 把XXX换为你的ID -->
-      <p style="color:#bdc3c7;margin:0">全部ID: JulyStarfire</p>    <!-- 把XXX换为你的ID -->
+      <p style="color:#bdc3c7;margin:0">全部ID: JulyStarfire、速冻月饼</p>    <!-- 把XXX换为你的ID -->
     </div>
   </div>
   
