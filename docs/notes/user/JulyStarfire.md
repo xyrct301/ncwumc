@@ -1,5 +1,5 @@
 ---
-title: JulyStarfire
+title: 速冻月饼🥮
 createTime: 2025/06/15 12:30:31
 permalink: /JulyStarfire/
 ---
@@ -27,7 +27,7 @@ permalink: /JulyStarfire/
     <ul style="list-style:none;padding:0;margin:0">
       <li style="margin:6px 0"><strong>入社时间</strong>：2025.03</li>
       <li style="margin:6px 0"><strong>部门</strong>：技术部</li>
-      <li style="margin:6px 0"><strong>历任职务</strong>：无</li>
+      <li style="margin:6px 0"><strong>历任职务</strong>：技术部部长</li>
     </ul>
   </div>
   
@@ -43,7 +43,8 @@ permalink: /JulyStarfire/
 
 
  # 个人说明
-
+### 联系方式
+QQ：2159954189，申请好友请备注来意
 
 ### 关于MC
 从手机版0.11开始玩的，MC不倒，陪你到老
