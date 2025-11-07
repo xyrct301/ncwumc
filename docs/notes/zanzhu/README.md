@@ -24,6 +24,9 @@ permalink: /zanzhu/
 - TheGc  
 - 千里行星.Ast  
 - 速冻月饼🥮
+- RinbowXD
+- Terminal
+- Early8
 
 @tab 2025.8.30
 - RinbowXD
