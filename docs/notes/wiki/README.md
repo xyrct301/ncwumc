@@ -21,7 +21,7 @@ permalink: /wiki/
   * 建筑服 IP：**build.mc.xks1.eu.org**
   * 原版生存服（不定期开放）IP：**survive.mc.xks1.eu.org**
 * 模组服  IP：**mod.mc.xks1.eu.org**
-* 小游戏服（定期开放，详见大群公告）
+* 小游戏服（定期开放，详见大群公告）IP：**minigame.mc.xks1.eu.org**
 
 具体运行情况请前往[QQ群](/qq/)查看
 
