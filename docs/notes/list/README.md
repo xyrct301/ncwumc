@@ -15,8 +15,8 @@ permalink: /list/
 | 副社长       | [***Zhihaoa***](/Zhihaoa)                                                  |
 | 团支书       | [***Zhihaoa***](/Zhihaoa)                                                     |
 | 技术部       | [***速冻月饼🥮***](/JulyStarfire) · 横竖 · TaBm · [枫岚](/feng_lan) · 86 · [HMQLJA](/HMQLJA) · [torm](/torm) · [Water_Wang](/Water_Wang) · [ErYiAn](/ErYiAn) |
-| 建筑部       | [***昼***](/Is_ZhouX) · [TFWY](/TFWY) · [EG](/EG) · [Mrs_War](/Mrs_War) · sanmurp · [Asteristen](/Asteristen) |
-| 组策部       | [***Baiye_um***](/Baiye_um) · Xi_fu · 辛 · [零二五](/lingerwu)                         |
+| 建筑部       | [***昼***](/Is_ZhouX) · [TFWY](/TFWY) · [EG](/EG) · [Mrs_War](/Mrs_War) · sanmurp · [Asteristen](/Asteristen) · [佳冶](/jiaye0313) |
+| 组策部       | [***Baiye_um***](/Baiye_um) · Xi_fu · 辛 · [零二五](/lingerwu)  · [枳](/Citrus) · [云雾](/qwqmc)                        |
 
 
 ## *往届社团成员*
