@@ -1,0 +1,70 @@
+---
+title: 我的故事太多，这里太窄，我写不下。
+createTime: 2025/12/01 12:00:00   
+permalink: /ErYiAn/   
+---
+<!-- 
+title后的XXX是标题
+createTime是写作时间
+permalink填游戏ID或网名拼音缩写，/不要删
+ -->
+
+
+<!-- 手机端精简版示例 (保留核心结构) -->
+<div class="member-card" style="max-width:700px;background:#fff;border-radius:12px;box-shadow:0 5px 20px rgba(0,0,0,0.08);margin:2rem auto;overflow:hidden">
+  <div style="background:#2c3e50;padding:25px;display:flex;align-items:center;gap:20px">
+    <img src="https://skin.twinklestars.top/avatar/576?size=45" alt="头像" style="width:70px;height:70px;border-radius:50%;border:3px solid #3498db">       <!-- 把XXX换为你的头像链接 -->
+    <div>
+      <h2 style="color:#fff;margin:0">ErYiAn一安</h2>    <!-- 把XXX换为你的ID -->
+      <p style="color:#bdc3c7;margin:0">全部ID: ErYiAn</p>    <!-- 把XXX换为你的ID -->
+    </div>
+  </div>
+  
+  <div style="display:flex;padding:0;flex-wrap:wrap">
+  <div style="flex:0 0 250px;padding:25px;text-align:center;min-width:100%;max-width:100%;box-sizing:border-box">
+    <img src="https://skin.twinklestars.top/preview/576?height=150" alt="皮肤" style="max-height:250px;max-width:100%">
+  </div>
+  
+  <div style="flex:1;padding:25px;display:flex;flex-direction:column;gap:15px;min-width:300px">
+  <!-- 基本信息区块 -->
+  <div>
+    <h3 style="font-size:1.25rem;color:#2c3e50;margin:0 0 8px">📋 基本信息</h3>
+    <ul style="list-style:none;padding:0;margin:0">
+      <li style="margin:6px 0"><strong>入社时间</strong>：2025.8</li>    <!-- 把XXX换为你的入社时间，如2025.3 -->
+      <li style="margin:6px 0"><strong>部门</strong>：技术部</li>         <!-- 把XXX换为你的部门 -->
+      <li style="margin:6px 0"><strong>历任职务</strong>：部员</li>         <!-- 把XXX换为你的历任职务 -->
+    </ul>
+  </div>
+  
+  <!-- 重要事迹区块 -->
+  <div>
+    <h3 style="font-size:1.25rem;color:#2c3e50;margin:0 0 8px">🏆 重要事迹</h3>
+    <p style="line-height:1.6">我还年轻，让未来的我帮我作答吧</p>           <!-- 把XXX换为你的重要事迹 -->
+  </div>
+</div>
+  </div>
+</div>
+
+<!-- 
+以下可采用markdown格式书写：
+可以用在线markdown编辑网站辅助书写：https://www.markdownonline.net/zh/
+写完后复制左边的文字到这里就可以了
+ -->
+
+  <!-- 示例 -->
+
+### 关于MC
+ 许多年以后，再次面对这个棕底绿顶的图标，我将会回想起小学看我叔叔放置方块的那个遥远的下午。
+我玩的最初的我的世界，没有末地、没有药水、群系也很少、物品一页都可以放完，但我就是无与伦比的欢喜，虽简单的框架给我的却是一个无比自由与开放的世界。
+再之后，我遇到了很多人，但重要的人大多都和我的世界有关，有的走散了，有的离开了，有的至今还在我身边，始终保持联系。但始终不变的，是我的世界，他总是充当一个媒介帮我认识更多东西，更多事物，像一位足够有耐心的长者，虽然不会说话，但却说了很多。
+
+####  我问我自己，我的世界，是我童年和少年的总和吗？不是。思考与创作是我童年和少年的总和吗？不是。但这些加起来，差不多就是了。
+
+### 关于部门
+凡是月饼作出的决策，我们都坚决维护，
+凡是月饼的指示，我们都始终不渝地遵循。
+不忘初心，牢记使命。
+
+### 关于社团
+挺好的，好人很多，神人不少，我看没什么，起码挺热闹。
+
