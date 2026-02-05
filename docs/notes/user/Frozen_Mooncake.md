@@ -1,7 +1,7 @@
 ---
 title: 速冻月饼🥮
 createTime: 2025/06/15 12:30:31
-permalink: /JulyStarfire/
+permalink: /Frozen_Mooncake/
 ---
 
 
@@ -10,8 +10,8 @@ permalink: /JulyStarfire/
   <div style="background:#2c3e50;padding:25px;display:flex;align-items:center;gap:20px">
     <img src="https://skin.twinklestars.top/avatar/460?size=36" alt="头像" style="width:70px;height:70px;border-radius:50%;border:3px solid #3498db">       <!-- 把XXX换为你的头像链接 -->
     <div>
-      <h2 style="color:#fff;margin:0">JulyStarfire</h2>    <!-- 把XXX换为你的ID -->
-      <p style="color:#bdc3c7;margin:0">全部ID: JulyStarfire、速冻月饼</p>    <!-- 把XXX换为你的ID -->
+      <h2 style="color:#fff;margin:0">Frozen_Mooncake</h2>    <!-- 把XXX换为你的ID -->
+      <p style="color:#bdc3c7;margin:0">全部ID: JulyStarfire、Frozen_Mooncake、速冻月饼</p>    <!-- 把XXX换为你的ID -->
     </div>
   </div>
   
